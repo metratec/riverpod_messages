@@ -10,7 +10,7 @@ dependencies:
     sdk: flutter
   riverpod_messages:
     path: ../../riverpod_messages
-  flutter_riverpod: ^1.0.3
+  flutter_riverpod: ^2.0.0-dev.9
 
 dev_dependencies:
   flutter_test:
